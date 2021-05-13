@@ -1,0 +1,22 @@
+#formulario{
+	margin-left: 25%;
+	margin-top: 5%;
+}
+.prod{
+	float: left;
+	margin: 10px;
+	width: 300px;
+	height: auto;
+	border: 1px solid #999999;
+	display: block;
+	background-color: white;
+}
+#tabla{
+	float: left;
+	display: block;
+}
+.eliminar{
+	float: right;
+	margin-right: 5px;
+	color: red;
+}

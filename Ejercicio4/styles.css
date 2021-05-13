@@ -1,0 +1,44 @@
+.input{
+	display:inline-block;
+    width:100%;
+    text-align: center;
+	margin-top: 20px;
+	margin-left: auto;
+}
+#boton1{
+	display:inline;
+    text-align: center;
+	margin-top: 20px;
+	margin-left: 46%;
+}
+#boton2{
+	display:inline;
+    text-align: center;
+	margin-top: 20px;
+}
+textarea{
+	display: block;
+	width: calc(50%);
+  	height: 150px;
+ 	padding: 10px;
+ 	padding-bottom: 100px;
+  	box-sizing: border-box;
+ 	border: 2px solid #ccc;
+ 	border-radius: 4px;
+ 	background-color: #f8f8f8;
+  	resize: none;
+  	word-break: break-word;
+  	margin: auto;
+}
+.comentario{
+	text-align: center;
+	width: 80%;
+	float: left;
+	margin-left: 10%;
+}
+.red{
+	color: red;
+}
+h2{
+	text-align: center;
+}
